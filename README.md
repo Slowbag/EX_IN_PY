@@ -24,3 +24,7 @@
 • <code>python main.py</code><br>
 <br>
 Установка на Linux аналогична установке на Android, только без Termux'a, достаточно прав SU и терминала.<br>
+
+# For Windows (NEW)
+Скачать и запустить:<br>
+https://github.com/Slowbag/EX_IN_PY/archive/main.zip
