@@ -11,7 +11,7 @@
 • <code>apt install git</code><br>
 • <code>git clone https://github.com/Slowbag/EX_IN_PY.git</code><br>
 • <code>cd ~/EX_IN_PY</code><br>
-• <code>python install_pack</code><br>
+• <code>python install_pack.py</code><br>
 • <code>python main.py</code><br>
 
 <b>Если у вас iOS</a> - скачать <a href="https://apps.apple.com/ru/app/testflight/id899247664">Testflight из App Store</a>, после чего присоедениться к тестированию <a href="https://testflight.apple.com/join/97i7KM8O">iSH в Testflight</a> и прописать команды ниже:<br>
@@ -20,7 +20,7 @@
 • <code>apk add git</code><br>
 • <code>git clone https://github.com/Slowbag/EX_IN_PY.git</code><br>
 • <code>cd ~/EX_IN_PY</code><br>
-• <code>python install_pack</code><br>
+• <code>python install_pack.py</code><br>
 • <code>python main.py</code><br>
 <br>
 Установка на Linux аналогична установке на Android, только без Termux'a, достаточно прав SU и терминала.<br>
